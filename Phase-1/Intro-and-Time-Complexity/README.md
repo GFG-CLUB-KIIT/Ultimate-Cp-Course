@@ -39,15 +39,15 @@ Article for reference:
 ╠══════════════════╬═════════════════╣  
 ║ Logarithmic Time ║ O(log n)        ║  
 ╠══════════════════╬═════════════════╣  
-║ Linear Time      ║ O(n) 			 ║  
+║ Linear Time      ║ O(n)            ║  
 ╠══════════════════╬═════════════════╣  
-║ Quasilinear Time ║ O(n log n) 	 ║  
+║ Quasilinear Time ║ O(n log n)      ║  
 ╠══════════════════╬═════════════════╣  
-║ Quadratic Time   ║ O(n^2) 		 ║  
+║ Quadratic Time   ║ O(n^2)          ║  
 ╠══════════════════╬═════════════════╣  
-║ Exponential Time ║ O(2^n) 		 ║  
+║ Exponential Time ║ O(2^n)          ║  
 ╠══════════════════╬═════════════════╣  
-║ Factorial Time   ║ O(n!) 			 ║  
+║ Factorial Time   ║ O(n!)           ║  
 ╚══════════════════╩═════════════════╝
 ```
 -------------------------------------------------------
