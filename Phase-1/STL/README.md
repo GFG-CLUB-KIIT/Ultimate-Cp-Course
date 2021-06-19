@@ -38,7 +38,8 @@ The C++ STL (Standard Template Library) is a powerful set of C++ [template class
 --------------------------------------------
 
 ## Practise Problems
-
+1. [Hackerrank - practice](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl)
+2. [Leetcode - problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 
 
 
