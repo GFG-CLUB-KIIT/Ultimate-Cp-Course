@@ -85,9 +85,9 @@ Stacks provides 3 basic operations for interaction
 3. `isEmpty()` -  Check if queue is empty or not.
 4. `top()` -     Return the element present at the front of queue
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a52c343e-d002-4f0a-aceb-85edd5f8bb81/JavaScript-Queue-Illustration.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a52c343e-d002-4f0a-aceb-85edd5f8bb81/JavaScript-Queue-Illustration.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a52c343e-d002-4f0a-aceb-85edd5f8bb81/JavaScript-Queue-Illustration.png](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase-1/STL/images/queue.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc758247-e969-4785-b27c-bbe33873d205/queue.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc758247-e969-4785-b27c-bbe33873d205/queue.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc758247-e969-4785-b27c-bbe33873d205/queue.png](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase-1/STL/images/gfgque.png)
 
 [Copy of Time complexity for Queue](https://www.notion.so/f8158411826a454ab798fd95b8d8073d)
 
@@ -138,7 +138,7 @@ A new data element is stored by pushing it on the top of the stack. And an data 
 
 An stack can be implemented using array as well as linked list but using a linked list is more efficient due to its dynamic nature.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36a96a96-2f9e-4ad7-8076-f0a47e79181e/geek-stack-1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36a96a96-2f9e-4ad7-8076-f0a47e79181e/geek-stack-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36a96a96-2f9e-4ad7-8076-f0a47e79181e/geek-stack-1.png](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase-1/STL/images/gfgstack.png)
 
 In the above image, although item 2 was kept last, it was removed first. This is exactly how the LIFO (Last In First Out) Principle works.
 
@@ -347,7 +347,7 @@ In C++, maps store the key values in *ascending order* by default.
 
 Maps takes a pair as its argument
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/793bb19a-12b2-4d03-bb33-bdac88b906f6/Screenshot_2021-02-27_125135.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/793bb19a-12b2-4d03-bb33-bdac88b906f6/Screenshot_2021-02-27_125135.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/793bb19a-12b2-4d03-bb33-bdac88b906f6/Screenshot_2021-02-27_125135.png](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase-1/STL/images/gfgMap.png)
 
 Syntax: `map<string,int> map_name;`
 
