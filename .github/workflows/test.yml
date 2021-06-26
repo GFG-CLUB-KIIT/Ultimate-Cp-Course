@@ -1,6 +1,5 @@
 name: Automating pull request
 
-
 on:
     push:
     branches: [ main ]
@@ -10,15 +9,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  myj_ob:
     runs-on: ubuntu-latest
 
     
     steps:
       
       - uses: actions/checkout@v2
-
-      
       - name: manual scripting
         run: echo Hello, world!
 
