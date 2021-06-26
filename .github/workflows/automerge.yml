@@ -25,3 +25,5 @@ jobs:
         uses: "pascalgn/automerge-action@v0.14.2"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_FORKS: "true"
+             
