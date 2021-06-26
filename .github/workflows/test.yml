@@ -19,9 +19,4 @@ jobs:
       - name: manual scripting
         run: echo Hello, world!
 
-      - name: Merge command
-        uses: Goobles/gh-actions-merge-command@v1
-        with:
-          allow_ff: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
