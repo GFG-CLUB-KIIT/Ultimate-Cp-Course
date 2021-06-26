@@ -6,7 +6,7 @@
 
 ### -What's Competitive Programming ?
 
-Competitive programming is an art form. It’s creative problem-solving at its finest, a combination of hard analytical thinking and creativity.
+Competitive programming is a art form. It’s creative problem-solving at its finest, a combination of hard analytical thinking and creativity.
 Competitive programmers use their knowledge of algorithms and data structures and logical reasoning skills to solve challenging algorithmic problems in a limited time frame.
 Java and C++ are extremely popular due to their relative run-time efficiency compared to a language like Python. C++ is the preferred competitive programming language, as due to its Standard Template Library (STL) which allows for quick write ups of solutions.
 
