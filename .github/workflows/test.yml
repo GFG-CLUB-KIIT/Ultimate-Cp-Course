@@ -2,11 +2,11 @@ name: Automating pull request
 
 on:
     push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+        branches: [ main ]
+    pull_request:
+        branches: [ main ]
 
-  workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
   myj_ob:
