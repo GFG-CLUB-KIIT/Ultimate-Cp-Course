@@ -457,5 +457,5 @@ void extendedEuclid(int A, int B) {
 
 **Practice questions**
 For Number theory 
-![number Theory 2 Question](https://docs.google.com/document/d/1oJGsy4xwGIZ0S70B7uZ5is0OktX-13gtmGgfrvCzfto/edit?usp=sharing)
+https://docs.google.com/document/d/1oJGsy4xwGIZ0S70B7uZ5is0OktX-13gtmGgfrvCzfto/edit?usp=sharing
 
