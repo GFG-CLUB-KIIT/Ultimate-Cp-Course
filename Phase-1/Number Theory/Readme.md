@@ -23,7 +23,7 @@ prefixSum[0] = 10,
 prefixSum[1] = prefixSum[0] + arr[1] = 30, 
 prefixSum[2] = prefixSum[1] + arr[2] = 40 and so on.
 ```
-
+https://docs.google.com/document/d/1oJGsy4xwGIZ0S70B7uZ5is0OktX-13gtmGgfrvCzfto/edit?usp=sharing
 Lets see this in Code:
 
 ```cpp
@@ -451,4 +451,11 @@ void extendedEuclid(int A, int B) {
 
 ***Time Complexity***: $**O(log(max(A,B)))**$
 
-![Number%20Theory%201e80d8a934db4b4a95df744906417808/sliding-window1.png](Number%20Theory%201e80d8a934db4b4a95df744906417808/sliding-window1.png)
+[Number%20Theory%201e80d8a934db4b4a95df744906417808/sliding-window1.png](Number%20Theory%201e80d8a934db4b4a95df744906417808/sliding-window1.png)
+
+
+
+**Practice questions**
+For Number theory 
+https://docs.google.com/document/d/1oJGsy4xwGIZ0S70B7uZ5is0OktX-13gtmGgfrvCzfto/edit?usp=sharing
+
