@@ -1,3 +1,4 @@
+You Can also find this as PDF in same folder
 # Bit Manipulation
 
 # What is Bit Manipulation?
