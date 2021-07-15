@@ -1,3 +1,4 @@
+Find this thing as a pdf over [here](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase%20-%20II/Linked%20List/Linked-List.pdf)
 # Linked-List
 
 ## What is Linked List ?
