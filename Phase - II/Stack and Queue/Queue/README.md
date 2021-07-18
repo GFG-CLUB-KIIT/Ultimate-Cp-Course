@@ -1,3 +1,4 @@
+These notes are also avalible as PDF [here](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase%20-%20II/Stack%20and%20Queue/Queue/Queue.pdf)
 # Queue
 
 Queue is an abstract linear data structure in which operations are performed in a particular manner
