@@ -1,3 +1,4 @@
+These are also avalible as a PDF [here](https://github.com/uzair-ali10/Ultimate-Cp-Course/blob/main/Phase%20-%20II/Stack%20and%20Queue/Stacks/Stacks.pdf)
 # Stacks
 
 ## What is Stack?
